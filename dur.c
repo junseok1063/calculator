@@ -2,5 +2,7 @@
 
 int dur(int a, int b)
 {
-    return a/b;
+    double result;
+    result=a/b;
+    return result;
 }
